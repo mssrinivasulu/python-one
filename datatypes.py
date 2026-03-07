@@ -1,4 +1,3 @@
-24534
 var = 8347
 print(var)
 print(type(var))
@@ -9,5 +8,8 @@ var = float(var)
 print(var)
 print(type(var))
 var = bool(var)
+print(var)
+print(type(var))
+var = complex(var)
 print(var)
 print(type(var))
